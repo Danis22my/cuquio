@@ -1,0 +1,24 @@
+h1{
+    font-family: arial;
+    color: blue;
+}
+h4{
+    font-family: Arial;
+    color: crimson;
+}
+p{
+    font-family: arial;
+    color: purple;
+}
+ol{
+    font-family: arial;
+    color: beige;
+}
+body{
+    background-color: pink;
+}
+button{
+    font-family: arial;
+    background-color: aquamarine;
+    border: cadetblue;
+}
